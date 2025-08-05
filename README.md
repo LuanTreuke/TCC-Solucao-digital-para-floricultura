@@ -44,7 +44,7 @@ O trabalho propõe o desenvolvimento de uma **plataforma web integrada**, compos
 
 ## 🧩 Arquitetura
 
-O sistema é estruturado em arquitetura **cliente-servidor com separação em camadas**, promovendo escalabilidade e facilidade de manutenção.
+O sistema será estruturado em arquitetura **cliente-servidor com separação em camadas**, promovendo escalabilidade e facilidade de manutenção.
 
 ---
 
