@@ -11,14 +11,17 @@
 
 ## 📘 Sobre o Projeto
 
-Este repositório apresenta o **TCC 1** desenvolvido por Luan Eduardo Treuke, com o objetivo de informatizar os processos de **vendas** e **logística de entregas** de uma floricultura de pequeno porte localizada em União da Vitória – PR.
+Este repositório apresenta o **TCC 1** desenvolvido por Luan Eduardo Treuke, com o objetivo de informatizar os processos de **catálogo** e **logística de entregas** de uma floricultura de pequeno porte localizada em União da Vitória – PR.
 
 O trabalho propõe o desenvolvimento de uma **plataforma web integrada**, composta por:
 
 - 💻 Uma **vitrine digital** para exibição dos produtos;
-- 📦 Um **painel administrativo** para controle de pedidos e entregas.
+- 📦 Um **painel administrativo** para controle de produtos, pedidos e entregas.
 
 ---
+Protótipo construído utilizando a ferramenta Figma, visando fidelidade ao produto final 
+![prototipo-floricultura](https://github.com/user-attachments/assets/0e7c0742-8dec-4c2a-a800-61aa6ad30d53)
+
 
 ## 🚀 Tecnologias propostas
 
